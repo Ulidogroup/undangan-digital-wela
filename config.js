@@ -8,7 +8,7 @@ window.ULIDO_CONFIG = {
   coverIcon: 'assets/ornaments/ornament2.webp', // contoh: 'assets/ornaments/logo.webp' (kosong = ikon hati)
   backgroundMusic: 'assets/music/sasada ho.mp3',
   musicVolume: 0.55,
-  whatsappNumber: '6281387101086', // opsional, contoh: '6281234567890'
+  whatsappNumber: '6288809094304', // opsional, contoh: '6281234567890'
   whatsappMessage: 'Halo Wela & Wendy, Keluarga kami ingin mengonfirmasi kehadiran.',
   mapsPemberkatan: 'https://maps.app.goo.gl/aicUojLaSCWBMd9X8',
   mapsResepsi: 'https://maps.app.goo.gl/DxeSgomA9Ue9ggsT9',
